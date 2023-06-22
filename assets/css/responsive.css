@@ -1,0 +1,84 @@
+@media screen and (max-width:786px) {
+    .main-header .nav-item .nav-link {
+        padding: 8px 38px;
+        line-height: initial;
+        clip-path: none;
+    }
+    .main-header .nav-item {
+        margin-bottom: 5px;
+    }
+    .home-banner .home-content h1 {
+        font-size: 40px;
+    }
+    .home-banner .home-content h5 {
+        font-size: 15px;
+    }
+    .financial-future .content h2 {
+        font-size: 16px;
+    }
+    .get-in-touch .button,
+    .who-we-are .button {
+        font-size: 30px;
+    }
+    .authority-in-building h2 {
+        font-size: 35px;
+    }
+    .authority-in-building p,
+    .financial-future .content p,
+    .expert p {
+        font-size: 15px;
+    }
+    .services img {
+        width: 60px;
+        height: 60px;
+    }
+    .services h3 {
+        font-size: 35px;
+    }
+    .expert h2 {
+        font-size: 29px;
+    }
+    .financial-future .number-diy .data {
+        font-size: 15px !important;
+    }
+    .financial-future .number-diy .symbol {
+        font-size: 15px;
+        padding: 0 5px;
+    }
+    .financial-future .number-diy .data ._number,
+    .financial-future .number-diy .data ._number span {
+        width: 15px !important;
+    }
+    .financial-future .number-diy .data ._number:not(:last-child) {
+        margin-right: 10px;
+    }
+    .contact-us h3 {
+        font-size: 16px;
+    }
+    .careers .timeline-steps .timeline-step:not(:last-child):after,
+    .careers .timeline-steps .timeline-step:not(:first-child):before{
+        display: none;
+    }
+
+    #get_offer1{
+        
+        width:100% !important ;
+    }
+    #get_offer1 h1{
+        margin: auto;
+        font-size: 24px;
+        line-height: 34px;
+    }
+    #serachbar1{
+        /* margin: 0px; */
+        width:80vw;
+        padding: 20px;
+    }
+    #get_offer{
+        width: 100% !important;
+    }
+}
+
+
+
+
